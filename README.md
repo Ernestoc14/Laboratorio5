@@ -8,8 +8,7 @@ porcentaje de los costos mayores a B/.50.00.
 
 4. Escribir un algoritmo que lea 10 valores numéricos enteros y que los mismos se almacenen en un arreglo. Luego deberá ordenar el arreglo para imprimir los valores de menor a mayor.
 
-5. Elabore un programa en C donde cargue un arreglo de 11X21 con unos (1) y
-cuatros (4) con ciclo repetitivos de manera que quede almacenado que los 4 formen un triángulo, luego recorra el arreglo para realizar la impresión que quede de la siguiente manera.
+5. Elabore un programa en C donde cargue un arreglo de 11X21 con unos (1) y cuatros (4) con ciclo repetitivos de manera que quede almacenado que los 4 formen un triángulo, luego recorra el arreglo para realizar la impresión que quede de la siguiente manera.
 
 111111111141111111111
 111111111444111111111
